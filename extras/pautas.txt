@@ -1,0 +1,18 @@
+-Pagina index como portada sin informacion, titulo imagen y links.
+-Menu con efectos, colores, botones y bordes.Min 5 opc + home
+-Imagenes de buena calidad, no abusar del tamaño :( 
+-Pagina de galeria , imagenes wallpapers, mp3 ,etc
+-Texto bien presentado,parraffos cortos,fuentes seguras, negrita, interlineado, etc
+-Color de fondo o fondo web
+-Una sola pagina de estilos
+
+Parrafos largos:
+Nunca centrar, izquierda y justificado, interlineado
+Titulos:
+Mayor tamaño que los parrafos
+Botones: No muy grandes.No mayores al titulo o banner
+
+El diseño debe ser Sobrio y prolijo, elegante. Que combinen los colores. Imagenes de buena calidad, no abusar del tamaño de letra ni de imagenes.
+
+www.youtube-mp3.rg/es
+www.youtubemp4.com
